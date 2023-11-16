@@ -1,1 +1,1 @@
-# my-project
+# capstone project on hotel booking analysis
